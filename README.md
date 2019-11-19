@@ -7,7 +7,7 @@
 
   <p align="center">
       El siguiente repositorio fue creado para compartir los ejercicios propuestos por <a href="https://github.com/Luis3518">Luis Rodriguez</a> profesor de la materia de sexto año "Administración de sistemas y redes de computadoras" de la 
-  <a href="https://github.com/othneildrew/Best-README-Template"><strong> Escuela Técnica N°35 "Ing. Eduardo Latzina" D.E 18.</strong></a>
+  <a href="https://github.com/othneildrew/Best-README-Template"><strong> Escuela Técnica N°35 "Ing. Eduardo Latzina".</strong></a>
     <br />
     <a href="https://github.com/pablorea/Administracion-de-sistemas-y-redes"><strong>« Explorar contenido »
     </strong></a>
