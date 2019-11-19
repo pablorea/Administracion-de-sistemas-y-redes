@@ -47,7 +47,7 @@ El software necesario para poder visualizar la ejercitacion puede ser descargado
 
 <p>El listado de ejercicios propuestos se puede encontrar al pie del archivo PDF junto con un cuestionario.</p>
 <p align="center">
-<img src='Images/pdf.gif'>
+<img src='Images/pdf_ejercicios.gif'>
 </p>
 
 # Instalación
