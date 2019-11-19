@@ -30,7 +30,7 @@
   * [Software](#Software)
 * [Apuntes y ejercicios ](#Apuntes-y-ejercicios)
 * [Instalación](#Instalación)
-* [Licencia](#Licencia)
+* [Licencia](#Licencia) 
 
 # Cisco packet tracer
 <p>Cisco desarrolló Packet Tracer para ayudar a los estudiantes de Networking Academy a lograr la experiencia de aprendizaje más óptima mientras adquieren habilidades prácticas de tecnología de redes.
