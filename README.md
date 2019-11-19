@@ -63,5 +63,5 @@ cd Administracion-de-sistemas-y-redes
 
 ## Licencia
 
-Software de dominio público. Ver`LICENSE` para más información.
+Software de dominio público. Ver`LICENSE` para más información. 
 
