@@ -19,7 +19,7 @@
     ·
     <a href="#">Instalción</a>
     .
-    <a href="#Licencia">Licencia</a>
+    <a href="#d">Licencia</a>
 
   </p>
 </p>
@@ -40,7 +40,7 @@ Es una poderosa plataforma de simulación de red que inspira a los estudiantes a
 ### Software
 El software necesario para poder visualizar la ejercitacion puede ser descargado de la página web oficial de Cisco o bien ser descargado desde este repositorio.
 
-* [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer)
+* [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) 
 
 
 # Apuntes y ejercicios
