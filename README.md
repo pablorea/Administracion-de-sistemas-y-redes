@@ -19,7 +19,7 @@
     ·
     <a href="#">Instalción</a>
     .
-    <a href="#Licencia">Licencia</a>
+    <a href="#d">Licencia</a>
 
   </p>
 </p>
