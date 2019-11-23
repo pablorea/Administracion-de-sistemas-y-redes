@@ -19,8 +19,6 @@
     ·
     <a href="#">Instalción</a>
     .
-    <a href="#d">Licencia</a>
-
   </p>
 </p>
 
@@ -30,7 +28,7 @@
   * [Software](#Software)
 * [Apuntes y ejercicios ](#Apuntes-y-ejercicios)
 * [Instalación](#Instalación)
-* [Licencia](#Licencia) 
+
 
 # Cisco packet tracer
 <p>Cisco desarrolló Packet Tracer para ayudar a los estudiantes de Networking Academy a lograr la experiencia de aprendizaje más óptima mientras adquieren habilidades prácticas de tecnología de redes.
@@ -61,7 +59,5 @@ cd Administracion-de-sistemas-y-redes
 ```
 2. Instala [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer)
 
-## Licencia
 
-Software de dominio público. Ver`LICENSE` para más información. 
 
